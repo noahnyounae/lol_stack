@@ -1,6 +1,6 @@
 # Privacy Policy — lol_stack
 
-Last updated: [DATE]
+Last updated: 04/09/2026
 
 lol_stack is a free Discord bot module operated by [TON NOM / RUNIA CORP] for a
 single private Discord community. This policy describes exactly what it stores,
@@ -65,7 +65,7 @@ top updated accordingly, and announced in the Discord server.
 
 ## Contact
 
-[TON NOM / RUNIA CORP] — [TON EMAIL]
+contact@runiacorp.eu - Noah Nyounae
 
 ---
 

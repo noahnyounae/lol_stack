@@ -9,9 +9,6 @@ splits ten players into two teams of near-equal strength, using each player's
 Riot ranked standing combined with an internal Elo built from the results of our
 own in-house games.
 
-> Screenshots of the bot in action: [À AJOUTER — 2 ou 3 captures : /lol_stack
-> balance, /lol_stack profile, /lol_stack leaderboard]
-
 ## Scope
 
 | | |
@@ -94,7 +91,7 @@ Full details, including retention and how to request erasure, are in
 
 ## Contact
 
-[TON EMAIL] — [OPTIONNEL : lien du serveur Discord de support]
+contact@runiacorp.eu
 
 ---
 
